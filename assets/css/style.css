@@ -23,7 +23,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #666;
 }
 
 h1 {
@@ -33,9 +33,9 @@ h1 {
   border-bottom: 3px solid #ddd;
 }
 
-h3 {
+/* h3 {
 
-}
+} */
 
 /* #navbarNav {
     
@@ -53,7 +53,7 @@ h3 {
     color: #ccc;
     text-align: center;
     background: #666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #c14417;
     height: 50px;
   }
 
@@ -79,7 +79,7 @@ h3 {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #666;
   }
 
   /* #pic {
@@ -117,7 +117,7 @@ h3 {
     line-height: 30px;
     color: #fff;
     text-align: center;
-    background: #4aaaa5;
+    background: #91165a;
     border-bottom: 0;
   }
   
@@ -141,10 +141,10 @@ h3 {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: goldenrod;
   }
 
   #submitButton {
 
-    background-color: #4aaaa5;
-  
+    background-color: #781005;
+  }
